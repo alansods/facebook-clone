@@ -1,13 +1,22 @@
 {
-  "name": "Facebook",
+  "name": "facebook",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tailwindcss build -i ./styles.css -o src/css/styles.css"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Alan Santos",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alansods/facebook-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alansods/facebook-clone/issues"
+  },
+  "homepage": "https://github.com/alansods/facebook-clone#readme",
+  "description": ""
 }
